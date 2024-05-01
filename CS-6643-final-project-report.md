@@ -1,6 +1,14 @@
 # Snooker Master
 
-## **Introduction:**
+Rui Wang - rw3068
+
+Runze Li - rl5083
+
+Lingfeng Fan - lf2606
+
+
+
+## Introduction
 
 The game of snooker requires a combination of skill, precision, and strategy, attracting players of all ages and backgrounds. Meanwhile, this game is quite challenging in accurately aiming and potting balls into the pockets.
 
